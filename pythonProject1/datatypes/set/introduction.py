@@ -1,0 +1,10 @@
+set1={1,2,3,4,5,6,"suiiii",8,9}
+print(set1)
+set1.update("CR7")
+print(set1)
+set1.add(48)
+print(set1)
+set1.remove(3)
+print(set1)
+set1.discard(1)
+print(set1)
