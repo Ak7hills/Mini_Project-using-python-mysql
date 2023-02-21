@@ -1,0 +1,7 @@
+body{ padding:0;
+      margin:0;
+      background-color:yellow;
+       }
+.main,table, th, td {
+  border: 1px solid;
+}

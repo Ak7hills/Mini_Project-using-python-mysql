@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f87f6349-6090-4c92-82d5-ee2a1eeb70d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../exam/exam2/check number is armstrong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exam/exam2/remove duplication from each word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exam/exam2/reverse a number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../css/fb/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/sample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/akhil/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/akhil/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/akhil/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/akhil/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/akhil/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/luminar/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/luminar/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/luminar/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/luminar/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/luminar/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/luminar/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/luminar/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/luminar/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/akhil/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/luminar/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/luminar/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/luminar/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/luminar/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/luminar/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/luminar/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/luminar/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/luminar/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/templates/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/regform.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/regform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/website.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/website.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini project/project.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2LAiSwPDvUFepa8NQUVgIPC4FcR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/AKHIL/PycharmProjects/pythonProject1"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f87f6349-6090-4c92-82d5-ee2a1eeb70d4" name="Changes" comment="" />
+      <created>1675320290382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675320290382</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

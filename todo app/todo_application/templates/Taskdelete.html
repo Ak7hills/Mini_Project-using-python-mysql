@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task_delete</title>
+
+</head>
+<body>
+    <div class="box">
+          <form method="post" action="">
+       {% csrf_token %}
+       <p>Are you sure you want to delete this task</p>
+       <button>Yes</button><br><br>
+       </form>
+    <a href="{% url 'items' %}"><button class="back">NO</button></a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task_detail</title>
+    <link rel="stylesheet" href="{% static 'css/taskdetail.css' %}">
+</head>
+<body>
+
+     <div class="box_details">
+       {% csrf_token %}
+       <p> <b>Title</b>:{{task.title}}</p>
+       <p><b>Description</b>:{{task.description}}</p>
+       <p><b>Completion status</b>:{{task.complete}}</p>
+       <p><b>Created on</b>:{{task.create}}</p>
+       <a href="{% url 'items' %}"><button>go back</button></a>
+     </div>
+</body>
+</html>
