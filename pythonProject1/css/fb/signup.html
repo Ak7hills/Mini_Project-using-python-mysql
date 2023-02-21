@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>signup</title>
+  <style>
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.fl{
+    float: left;
+}
+.fr{float: right;}
+.clr{clear: both;}
+.warpper{
+   background-color: #E9EBEE;
+   width: 100%;
+   height: 100vh;
+}
+.header{
+    width: 100%;
+    background-color: #4267B2;
+}
+.sub-header{
+    width: 70%;
+    margin: auto;
+}
+.hea{
+    width: 30%;
+}
+.hea p{
+    color: #fff;
+    font-size: 50px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+.user-form{
+    width: 40%;
+    color: #fff;
+}
+.nae-id{
+    padding: 10px 2%;
+    font-size: 13px;
+    color: #fff;
+}
+.btn{
+    width: 150%;
+    background-color: rgb(91,130,206);
+    height: 25px;
+    color: #fff;
+    margin-top: 20px;
+    border: 1px solid #1D2129;
+}
+.btn:hover{background-color: rgb(6, 50, 184);}
+.int-for{height: 25px; width: 100%;}
+.mar{margin-bottom: 5px;}
+.forget{margin-top: 5px; color: rgb(226, 224, 224);}
+.content{width: 70%; margin: auto;}
+.left-con {width: 50%;}
+.face{width: 80%; margin-top: 60px;}
+.face p{font-size: 20px; font-weight: bold; color: rgb(29, 30, 32); line-height: 30px;}
+.fabimage{width: 100%; margin-top: 30px;}
+.fabimage img{width: 100%; height: 300px;}
+.right-con{width: 40%;}
+.heaft{font-size: 50px; margin-top: 15px; color: #4B3333;}
+.firstpa{font-size: 20px; color: #4B3333;}
+.nameif{width: 100%; margin-top: 20px;}
+.name-i{width: 47%; height: 40px;}
+.name-ie{width: 47%; height: 40px; margin-left: 5%;}
+.paem{width: 100%; height: 40px; margin-top: 15px;}
+.dtae{width: 50%; height: 35px;}
+.bart{margin: 15px 0 5px 0; font-size: 20px; font-weight: bold; color: #90949c;}
+.fas{font-size: 20px; margin: 5px 0 0 3%; color: #606770; }
+.texss{font-size: 25px; color: #1D2129;}
+.page{font-size: 12px; color:#89778A; width: 70%; margin-top: 15px;}
+.butn{
+    width: 40%;
+    height: 40px;
+    background-color: #6BA253;
+    color: #fff;
+    font-size: 20px;
+    margin: 15px 0 40px 0;
+    border: 1px solid #1D2129;
+    border-radius: 10px;
+}
+.butn:hover{background-color: rgb(125, 216, 92);}
+.lastex{font-size: 16px;}
+</style>
+</head>
+<body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="facbok.css" rel="stylesheet">
+    <link href="css/all.min.css" rel="stylesheet">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="warpper">
+        <div class="header">
+            <div class="sub-header">
+                <div class="hea fl">
+                    <p>facebook</p>
+                </div>
+                <div class="user-form fr">
+                        <div class="nae-id fl">
+                            <p class="mar">Email or Phone</p>
+                            <p>
+                                <input type="text" name="username" class="int-for">
+                            </p>
+                        </div>
+                        <div class="nae-id fl">
+                            <p class="mar">Password</p>
+                            <p>
+                                <input type="password" name="uid" class="int-for">
+                            </p>
+                            <p class="forget">Forgotten account?</p>
+                        </div>
+                        <div class="nae-id fl">
+                            <p>
+                                <input type="submit" name="sub" value="Login" class="btn">
+                            </p>
+                        </div>
+                    </>
+                </div>
+            </div>
+            <!--------end sub header-->
+            <div class="clr"></div>
+        </div>
+        <!--------end header-->
+
+        <div class="content">
+            <div class="left-con fl">
+                <div class="face">
+                    <p>Facebook helps you connect and share with the people in your life.</p>
+                </div>
+                <div class="fabimage">
+                    <img src="image/facebook.png">
+                </div>
+            </div>
+            <div class="right-con fr">
+                <h1 class="heaft">Create an account</h1>
+                <p class="firstpa">It's quick and easy</p>
+                <form method="POST">
+                    <div class="nameif">
+                        <p>
+                            <input type="text" name="fir" placeholder="First Name" class="name-i">
+                            <input type="text" name="fir" placeholder="Last name" class="name-ie">
+                        </p>
+                        <p>
+                            <input type="email" name="uid" placeholder="Mobile Number or Eamil address" class="paem">
+                        </p>
+                        <p>
+                            <input type="password" name="pass" placeholder="New Password" class="paem">
+                        </p>
+                        <p class="bart">Birthday</p>
+                        <p>
+                            <input type="date" name="dat" class="dtae"><i class="fas fa-question-circle"></i>
+                        </p>
+                        <p class="bart">Gender</p>
+                        <p class="texss">
+                            <input type="radio" name="status" value="person"> Female
+                            <input type="radio" name="status" value="person"> Male
+                            <input type="radio" name="status" value="person"> Customa
+                            <i class="fas fa-question-circle"></i>
+                        </p>
+                        <p class="page"> By clicking Sign Up, you agree to our Terms, Data Policy and Cookie Policy. You may receive
+                            SMS notifications from us and can opt out at any time.</p>
+                        <p>
+                            <input type="submit" name="tbt" value="Sign Up" class="butn">
+                        </p>
+                        <p class="lastex">Create a Page for a celebrity, band or business.</p>
+                    </div>
+                </form>
+            </div>
+            <div class="clr"></div>
+        </div>
+    </div>
+
+</body>
+</html>

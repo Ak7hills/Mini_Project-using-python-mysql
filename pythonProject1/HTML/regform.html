@@ -3,38 +3,62 @@
 <head>
     <meta charset="UTF-8">
     <title>Registration</title>
+   <script src="https://kit.fontawesome.com/4b922cea5a.js" crossorigin="anonymous"></script>
+  <style>
+    *{
+      padding:10;
+      margin:10;
+      }
+    body{
+        background-color: lightblue;
+        width:300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-right: 400px;
+        margin-left: 450px;
+    }
+
+  </style>
 </head>
 <body>
-<img src('
 <center>
 <h1>Registration</h1>
 <form action="" method="">
-  <div id="" class="">
+  <div id="" class="user">
     <label for="firstname">First name:</label>
-    <input type="text" id="firstname" placeholder="enter your firstname"><br>
+    <i class="fa-solid fa-user"></i>
+    <input type="text" id="firstname"placeholder="enter your firstname"><br>
     <label for="lastname">Last name:</label>
+    <i class="fa-solid fa-user"></i>
     <input type="text" id="lastname" placeholder="enter your lastname"><br>
     <label for="username">Username:</label>
+    <i class="fa-solid fa-user"></i>
     <input type="text" id="username" placeholder="enter your username"><br>
     <label for="Email">Email:</label>
+     <i class="fa-solid fa-square-envelope"></i>
     <input type="email" id="email" placeholder="enter your email"><br>
     <label for="Password">Password:</label>
+     <i class="fa-solid fa-lock"></i>
     <input type="password" id="password" placeholder="enter your password">
 
   </div>
-  <div id="" class="">
+  <div id="" class="gender">
     <label>Gender</label>
     <input type="radio" name="gender" id="id_male">
     <label for="id_male">Male</label>
     <input type="radio" name="gender" id="id_female">
     <label for="id_female">Female</label>
   </div>
-  <div id="" class="">
+  <div id="" class="address">
     <label>Address</label>
+    <i class="fa-solid fa-house"></i>
     <textarea name="address" id="id_address" cols="20" rows="10"></textarea>
   </div>
   <div>
     <label>Qualification</label>
+    <i class="fa-solid fa-user-graduate"></i>
     <select name="qualification">
       <option value="btech">B-tech</option>
       <option value="bca">BCA</option>
